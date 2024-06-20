@@ -44,6 +44,6 @@ Thank you for your enthusiasm! We hope to launch the app soon in the Play Store 
 
 ## Built With
 - Dart
-- Figma
+- Figma[https://www.figma.com/design/qufQADWPcb0plFyCpABGpI/Commit-prototype?node-id=259-95]
 - Firebase
 - Flutter
